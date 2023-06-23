@@ -1,0 +1,21 @@
+{
+    "login" : "Login",
+    "Email" : "Email",
+    "name" : "Name",
+    "Phone" : "Phone",
+    "Password" : "Password",
+    "Please" : "Please fill the data correctly",
+    "Empty":"This field cannot be empty",
+    "craete" : "Create a new account?",
+    "Registeration" : "Registeration",
+    "Register" : "Register",
+    "already":"already have an account?",
+    "Home":"Home Page",
+    "cant":"Can't connect .. check internet",
+    "Category":"Category:    \t  ",
+    "price":"Price:       \t\t \t   ",
+    "Description":"Description:   ",
+    "ChangeLan":"Arabic language",
+    "logOut":"Log Out"
+
+}
